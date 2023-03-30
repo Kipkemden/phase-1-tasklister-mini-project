@@ -75,9 +75,10 @@ input[type="submit"]:hover {
 }
 
 h1 {
-	color:#fff;
+	color:#335be0;
 	text-shadow: 2px 2px 0px #333;
-	margin:0 0 10px;
+	margin-left: auto;
+	margin-right: auto
 	font-size:32px;
 	font-weight:bold;
 }
